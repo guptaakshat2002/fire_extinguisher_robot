@@ -72,17 +72,14 @@ Usage:
 Contributing:
 Contributions to this project are welcome. If you have any improvements, bug fixes, or feature additions, please submit them via pull requests on GitHub.
 
-License:
-This project is licensed under the [insert license here]. Please review the LICENSE.md file for more details.
-
 Acknowledgments:
-[Insert any acknowledgments or credits for libraries, inspiration, or support received during the project development.]
+https://github.com/guptaakshat2002/fire_extinguisher_robot/blob/main/ACKNOWLEDGEMENT.pdf
 
 Authors:
-This project is fully supervise and maintain my Akshat Gupta for contact mail me at akshatg989@gmail.com
+This project is fully supervise and maintain my Akshat Gupta. 
 
 Disclaimer:
 This project is for educational and demonstration purposes only. It should not be relied upon as a primary means of fire protection. Always follow proper fire safety protocols and use certified fire extinguishing equipment when necessary.
-Contact:
 
-For any inquiries or support, please contact [insert contact email or information].
+Contact:
+For any inquiries or support, please contact [akshatg989@gmail.com].
